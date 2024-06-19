@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nileshgithub74/leetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/nileshgithub74/leetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nileshgithub74/leetCode/tree/master/0069-sqrtx) |
 # Stack
 |  |
@@ -42,3 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nileshgithub74/leetCode/tree/master/0050-powx-n) |
