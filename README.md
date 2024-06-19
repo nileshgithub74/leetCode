@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nileshgithub74/leetCode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/nileshgithub74/leetCode/tree/master/0792-binary-search) |
 # Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nileshgithub74/leetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/nileshgithub74/leetCode/tree/master/0069-sqrtx) |
 # Stack
 |  |
 | ------- |
