@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/nileshgithub74/leetCode/tree/master/0792-binary-search) |
+| [2058-concatenation-of-array](https://github.com/nileshgithub74/leetCode/tree/master/2058-concatenation-of-array) |
 # Hash Table
 |  |
 | ------- |
@@ -78,3 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/master/0053-maximum-subarray) |
+# Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/nileshgithub74/leetCode/tree/master/2058-concatenation-of-array) |
