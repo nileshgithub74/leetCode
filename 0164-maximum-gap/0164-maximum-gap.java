@@ -6,7 +6,7 @@ class Solution {
         }
         Arrays.sort(arr);
 
-        int diff = arr[0];
+        int diff = 0;
         for(int i=1; i< arr.length; i++){
             int ans = arr[i] - arr[i-1];
 
