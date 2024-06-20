@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nileshgithub74/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/nileshgithub74/leetCode/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/nileshgithub74/leetCode/tree/master/0792-binary-search) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/nileshgithub74/leetCode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
 # Enumeration
 |  |
@@ -87,3 +89,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/nileshgithub74/leetCode/tree/master/2058-concatenation-of-array) |
+# Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nileshgithub74/leetCode/tree/master/0164-maximum-gap) |
+# Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nileshgithub74/leetCode/tree/master/0164-maximum-gap) |
