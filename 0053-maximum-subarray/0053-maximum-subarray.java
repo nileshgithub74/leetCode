@@ -11,11 +11,9 @@ class Solution {
                 sum = arr[i];
             }
            
-            if(sum > max){
-                max = sum;
-            }
+         
            
-
+         max = Math.max(sum, max);
 
             }
             
