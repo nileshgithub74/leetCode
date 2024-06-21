@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/nileshgithub74/leetCode/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/nileshgithub74/leetCode/tree/master/2058-concatenation-of-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/nileshgithub74/leetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 # Hash Table
 |  |
 | ------- |
