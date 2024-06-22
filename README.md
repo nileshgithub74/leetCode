@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nileshgithub74/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/nileshgithub74/leetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2491-smallest-even-multiple](https://github.com/nileshgithub74/leetCode/tree/master/2491-smallest-even-multiple) |
+| [2752-sum-multiples](https://github.com/nileshgithub74/leetCode/tree/master/2752-sum-multiples) |
 # Stack
 |  |
 | ------- |
