@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nileshgithub74/leetCode/tree/master/0371-sum-of-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/nileshgithub74/leetCode/tree/master/2491-smallest-even-multiple) |
 # Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/nileshgithub74/leetCode/tree/master/2491-smallest-even-multiple) |
 # Divide and Conquer
 |  |
 | ------- |
