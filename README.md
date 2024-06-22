@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/nileshgithub74/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/nileshgithub74/leetCode/tree/master/0371-sum-of-two-integers) |
 # Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/nileshgithub74/leetCode/tree/master/0371-sum-of-two-integers) |
 # Sorting
 |  |
 | ------- |
