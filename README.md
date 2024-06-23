@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/nileshgithub74/leetCode/tree/master/0792-binary-search) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nileshgithub74/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/nileshgithub74/leetCode/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nileshgithub74/leetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3221-find-the-peaks](https://github.com/nileshgithub74/leetCode/tree/master/3221-find-the-peaks) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nileshgithub74/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/nileshgithub74/leetCode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nileshgithub74/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Enumeration
 |  |
 | ------- |
@@ -114,3 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nileshgithub74/leetCode/tree/master/0164-maximum-gap) |
+# Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nileshgithub74/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
