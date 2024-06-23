@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nileshgithub74/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/nileshgithub74/leetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2491-smallest-even-multiple](https://github.com/nileshgithub74/leetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/nileshgithub74/leetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nileshgithub74/leetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/nileshgithub74/leetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nileshgithub74/leetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/nileshgithub74/leetCode/tree/master/2507-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/nileshgithub74/leetCode/tree/master/3221-find-the-peaks) |
 # Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nileshgithub74/leetCode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/nileshgithub74/leetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/nileshgithub74/leetCode/tree/master/2507-number-of-common-factors) |
 # Divide and Conquer
 |  |
 | ------- |
