@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nileshgithub74/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/nileshgithub74/leetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/nileshgithub74/leetCode/tree/master/2058-concatenation-of-array) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nileshgithub74/leetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nileshgithub74/leetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3221-find-the-peaks](https://github.com/nileshgithub74/leetCode/tree/master/3221-find-the-peaks) |
 # Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nileshgithub74/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/nileshgithub74/leetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2491-smallest-even-multiple](https://github.com/nileshgithub74/leetCode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nileshgithub74/leetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/nileshgithub74/leetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nileshgithub74/leetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/nileshgithub74/leetCode/tree/master/2752-sum-multiples) |
