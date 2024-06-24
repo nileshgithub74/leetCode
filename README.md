@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nileshgithub74/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
 # Binary Search
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 # Tree
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/master/0053-maximum-subarray) |
 # Simulation
 |  |
@@ -131,3 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/nileshgithub74/leetCode/tree/master/1603-running-sum-of-1d-array) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
