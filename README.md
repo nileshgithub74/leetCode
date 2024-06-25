@@ -147,3 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
+# String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/nileshgithub74/leetCode/tree/master/0742-to-lower-case) |
