@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nileshgithub74/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/nileshgithub74/leetCode/tree/master/0344-reverse-string) |
 # Binary Search
 |  |
 | ------- |
@@ -151,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/nileshgithub74/leetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/nileshgithub74/leetCode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nileshgithub74/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
