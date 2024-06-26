@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/nileshgithub74/leetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nileshgithub74/leetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/nileshgithub74/leetCode/tree/master/2752-sum-multiples) |
+| [3371-harshad-number](https://github.com/nileshgithub74/leetCode/tree/master/3371-harshad-number) |
 # Stack
 |  |
 | ------- |
