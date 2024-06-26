@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nileshgithub74/leetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nileshgithub74/leetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 # Tree
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nileshgithub74/leetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/nileshgithub74/leetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/nileshgithub74/leetCode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nileshgithub74/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
