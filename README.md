@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nileshgithub74/leetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nileshgithub74/leetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3221-find-the-peaks](https://github.com/nileshgithub74/leetCode/tree/master/3221-find-the-peaks) |
+| [3321-type-of-triangle](https://github.com/nileshgithub74/leetCode/tree/master/3321-type-of-triangle) |
 # Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/nileshgithub74/leetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nileshgithub74/leetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/nileshgithub74/leetCode/tree/master/2752-sum-multiples) |
+| [3321-type-of-triangle](https://github.com/nileshgithub74/leetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/nileshgithub74/leetCode/tree/master/3371-harshad-number) |
 # Stack
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nileshgithub74/leetCode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/nileshgithub74/leetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nileshgithub74/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3321-type-of-triangle](https://github.com/nileshgithub74/leetCode/tree/master/3321-type-of-triangle) |
 # Enumeration
 |  |
 | ------- |
