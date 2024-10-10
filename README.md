@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
