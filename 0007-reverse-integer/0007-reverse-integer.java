@@ -1,19 +1,23 @@
-
 class Solution {
-    public int reverse(int x) {
-        long reverse = 0;
-        int temp;
+    public int reverse(int  x) {
+         long rev = 0;
+         int n = x;
+       
+        while( n  != 0){
+            int  r = n % 10;
+             rev =  rev * 10 + r;
+             n = n /10;
 
-        while (x != 0) {
-            temp = x % 10;
-            reverse = reverse * 10 + temp;
-            x = x / 10;
+             if( rev> Integer.MAX_VALUE ||  rev <Integer.MIN_VALUE){
+                rev = 0;
+             }
+              
 
-            if (reverse > Integer.MAX_VALUE || reverse < Integer.MIN_VALUE) {
-                return 0;
-            }
         }
+       return (int) rev;
+        
 
-        return (int) reverse;
+        
     }
 }
+
