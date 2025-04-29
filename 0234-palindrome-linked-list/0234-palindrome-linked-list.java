@@ -1,50 +1,32 @@
-
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-
-
-      public ListNode reverseList(ListNode head){
-            ListNode prev = null;
-            ListNode next = null;
-            ListNode curr = head;
-
-            while(curr != null){
-                next = curr.next;
-                curr.next = prev;
-                prev = curr;
-                curr =  next;
-            }
-            return prev;
-        }
     public boolean isPalindrome(ListNode head) {
+        Stack<Integer> st = new Stack<>();
 
-      
+         ListNode curr = head;
+         while(curr != null){
+             st.push(curr.val);
+             curr = curr.next;
+         } 
 
 
+         curr = head;
 
-
-        ListNode slow = head;
-        ListNode fast   = head;
-
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-        ListNode secondHalf = reverseList(slow);
-        ListNode firstHalf = head;
-        while(secondHalf != null){
-            if(firstHalf.val  != secondHalf.val){
+         while(curr != null){
+            if(curr.val != st.pop()){
                 return false;
             }
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
-        }
-        return true;
-
-        
-    
-
- 
-        
+            curr = curr.next;
+         }   
+         return true;    
     }
 }
