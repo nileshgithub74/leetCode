@@ -21,7 +21,7 @@ class Solution {
 
       int cursum = sum +  root.val;
       if(root.left == null && root.right == null){
-        return cursum>=limit ? root: null;
+        return cursum>=limit ? root : null;
       }
        
 
