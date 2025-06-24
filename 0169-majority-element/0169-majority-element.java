@@ -1,47 +1,33 @@
 class Solution {
-    public int majorityElement(int[] nums) {
+    public int majorityElement(int[] arr) {
+        int candidate = arr[0];
+        int count = 1;
+        int n = arr.length;
 
-     int n = nums.length;
-     int ans=0;
-        int count =1;
-        int  element = nums[0];
         for(int i =1; i< n; i++){
-            if(nums[i] == element){
+        
+            if(arr[i] == candidate){
                 count++;
             }else{
                 count--;
             }
-            if(count ==0){
-                element = nums[i];
-                count =1;
+              if(count ==0){
+                candidate = arr[i];
+                count = 1;
+            }
+            
+        }
+        count = 0;
+        for(int i =0; i< n; i++){
+            if(arr[i] == candidate){
+                count++;
             }
         }
 
-
-        int  majcount =0;
-
-        for(int i=0; i< nums.length; i++){
-            if(nums[i]  == element){
-                count ++;
-            }
+        if(count > n/2){
+            return candidate;
         }
 
-    if(count > n/2 ){
-        ans = element;
-    }
-      else{
-        ans = -1;
-      }
-      
-
-        
-
-
-       
-      
-    
-
-        
-    return ans;
+        return  -1;
     }
 }
