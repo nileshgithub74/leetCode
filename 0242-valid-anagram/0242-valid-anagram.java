@@ -18,8 +18,8 @@ class Solution {
      for(int x : freq){
         if( x !=0){
             return false;
-        
-     }}
+        }
+     }
      return true;
 
         
