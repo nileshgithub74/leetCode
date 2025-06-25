@@ -7,7 +7,7 @@ class Solution {
         grid[i][j] = 'V';
 
         while(!q.isEmpty()){
-            int[] removed = q.poll();
+            int[] removed = q.remove();
             int x = removed[0];
             int y = removed[1];
 
