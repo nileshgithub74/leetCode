@@ -1,20 +1,45 @@
 class Solution {
 
-    private void dfs(char[][] grid, int i, int j ){
-        int  m = grid.length;
-        int n = grid[0].length;
+    private void bfs(char[][] grid, int i, int j ){
+        Queue<int[]> q = new  LinkedList<>();
+        q.add( new int[]{i,j});
 
-         if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == '0') {
-            return;
+        grid[i][j] = 'V';
+
+        while(!q.isEmpty()){
+            int[] removed = q.poll();
+            int x = removed[0];
+            int y = removed[1];
+
+              if (x + 1 < grid.length && grid[x + 1][y] == '1') {
+                q.add(new int[]{x + 1, y});
+                grid[x + 1][y] = 'V';
+            }
+
+            if(x-1 >=0 && grid[x-1][y] =='1'){
+                q.add(new int[]{x-1, y});
+                grid[x-1][y] = 'V';
+            }
+
+            if( y+1 < grid[0].length && grid[x][y+1] == '1'){
+               q.add(new int[]{x, y + 1});
+              grid[x][y+1] = 'V';  
+            }
+
+
+             if(y-1 >= 0 && grid[x][y-1]  == '1'){
+                 q.add(new int[]{x, y -1});
+              grid[x][y-1] = 'V';  
+            }
+
+
+
+
+
+
         }
+    
 
-        
-        grid[i][j] ='0'; 
-
-        dfs(grid, i+1, j);
-        dfs(grid, i-1,j);
-        dfs(grid, i, j+1);
-        dfs(grid, i, j-1);
     }
 
 
@@ -33,7 +58,7 @@ class Solution {
             for(int j = 0 ; j< col; j++){
                 if(grid[i][j] == '1'){
                     count++;
-                    dfs(grid, i, j);
+                    bfs(grid, i, j );
                 }
             }
 
