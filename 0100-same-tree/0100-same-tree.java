@@ -16,24 +16,10 @@
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
 
-        TreeNode curr1 = p;
-        TreeNode curr2 = q;
-
-        if(curr1 == null && curr2 == null){
-            return true;
-        }
-     
-
-   
-        if(curr1 == null ||  curr2  == null){
-            return false;
-        }
-       if( curr1.val != curr2.val){
-            return false;
-        }
-        
-
-    return isSameTree(curr1.left, curr2.left) && isSameTree(curr1.right, curr2.right);
+        if(p == null && q == null) return true;
+        if(p == null || q == null) return false;
+    if(p.val != q.val) return false;
+    return isSameTree(p.left,  q.left) && isSameTree(p.right, q.right);
         
     }
 }
