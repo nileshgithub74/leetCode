@@ -6,7 +6,7 @@ class Solution {
         int i =0;
         int j = arr.length-1;
         while(i  <j){
-         double  average =(arr[i]+ arr[j])/2.0;
+         double  average = (double)(arr[i]+ arr[j])/2;
             ans = Math.min(average, ans);
             i++;
             j--;
