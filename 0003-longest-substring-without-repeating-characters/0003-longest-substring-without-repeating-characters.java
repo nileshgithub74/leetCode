@@ -5,7 +5,7 @@ class Solution {
         int left = 0; int maxlen = 0;
 
         for(int right=0; right< s.length(); right++){
-            char c = s.charAt(right);
+            char c = s.charAt(right); 
             if( hs.containsKey(c)){
                 left =  Math.max( hs.get(c) + 1, left);
             }
