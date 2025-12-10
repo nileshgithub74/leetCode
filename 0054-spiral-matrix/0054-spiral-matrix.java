@@ -1,44 +1,54 @@
 class Solution {
-    public List<Integer> spiralOrder(int[][] matrix) {
-       
-        List<Integer> result = new ArrayList<>();
-        int m = matrix.length; 
-        int n = matrix[0].length;
+    public List<Integer> spiralOrder(int[][] arr) {
+        List<Integer> result =  new ArrayList<>();
 
-        int top = 0, left = 0;
-        int right = n - 1, bottom = m - 1;
 
-        while (left <= right && top <= bottom) {
+        int m = arr.length;
+        int n  = arr[0].length;
 
-            // Step 1: Left → Right
-            for (int j = left; j <= right; j++) {
-                result.add(matrix[top][j]);
-            }
-            top++;
+        int top =0;
+        int left=0;
+        int right = n-1;
+        int bottom = m-1;
 
-            // Step 2: Top → Bottom
-            for (int i = top; i <= bottom; i++) {
-                result.add(matrix[i][right]);
-            }
-            right--;
+    while(left<= right && top <= bottom){
+      for(int j =left; j<= right;j++){
+            result.add(arr[top][j]);
+        }
+        top++;
 
-            // Step 3: Right → Left (check boundary)
-            if (top <= bottom) {
-                for (int j = right; j >= left; j--) {
-                    result.add(matrix[bottom][j]);
-                }
-                bottom--;
-            }
 
-            // Step 4: Bottom → Top (check boundary)
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--) {
-                    result.add(matrix[i][left]);
-                }
-                left++;
+        for(int i =top; i <= bottom ; i++){
+            result.add(arr[i][right]);
+        }
+        right--;
+
+        if(top <=bottom){
+            for(int j = right; j>=left; j--){
+                result.add(arr[bottom][j]);
             }
         }
-        return result;
+        bottom--;
+
+        if(left<= right){
+            for(int i=bottom ; i>=top; i--){
+                result.add(arr[i][left]);
+
+            }
+            left++;
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+     return result;
         
     }
 }
