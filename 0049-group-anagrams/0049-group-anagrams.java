@@ -4,14 +4,36 @@ class Solution {
     Map<String, List<String> > map = new HashMap<>();
 
     for(String s : strs){
-        char[] ch = s.toCharArray();
-        Arrays.sort(ch);
-        String sorted = new String(ch);
+        
 
-        if(!map.containsKey(sorted)){
-            map.put(sorted, new ArrayList<>());
+        int[] freq = new int[26];
+
+        for(char c : s.toCharArray()){
+            freq[c-'a']++;
         }
-        map.get(sorted).add(s);
+      
+      StringBuilder keyBuild = new StringBuilder();
+        for(int x : freq){
+            keyBuild.append('#').append(x);
+
+        }
+
+        String key = keyBuild.toString();
+
+        if(!map.containsKey(key)){
+            map.put(key, new ArrayList<>());
+        }
+
+        map.get(key).add(s);
+
+
+    
+
+        
+       
+
+
+
 
 
 
