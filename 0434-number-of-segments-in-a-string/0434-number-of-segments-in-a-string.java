@@ -1,11 +1,23 @@
 class Solution {
-    public int countSegments(String s) {
-        s = s.trim();
-        if(s.isEmpty()){
-            return 0;
+    public int countSegments(String str) {
+
+
+        int count =0;
+
+        if(str.length() > 0 && str.charAt(0) != ' '){
+            count++;
         }
-        String[] str = s.split("\\s+");
-        return str.length;
-        
+
+        for(int i =1; i < str.length(); i++){
+            if(str.charAt(i) != ' ' && str.charAt(i- 1) == ' '){
+                count++;
+            }
+
+        }
+
+        return count;
+
+
+       
     }
 }
