@@ -10,21 +10,30 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        
-        ListNode dummy = new ListNode(-1);
-        dummy.next = head;
-        ListNode ptr = dummy;
 
-        while(ptr.next != null && ptr.next.next != null){
+        if (head == null || head.next == null)
+            return head;
+
+        ListNode dummyNode = new ListNode(-1);
+        dummyNode.next = head;
+        ListNode ptr = dummyNode;
+
+        while (ptr.next != null && ptr.next.next != null) {
             ListNode swap1 = ptr.next;
             ListNode swap2 = ptr.next.next;
+            // new node formations
 
             swap1.next = swap2.next;
             swap2.next = swap1;
 
+            // move the pointer
+
             ptr.next = swap2;
             ptr = swap1;
+
         }
-        return dummy.next;
+
+        return dummyNode.next;
+
     }
 }
