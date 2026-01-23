@@ -58,11 +58,7 @@ class Solution {
 
         int first = FirstOcurr(arr, target);
         int second = LastOcurr(arr, target);
-        int[] result =  new int[2];
-        result[0] = first;
-        result[1] =second;
-        return result;
-
+         return new int[]{first, second};
 
         
     }
