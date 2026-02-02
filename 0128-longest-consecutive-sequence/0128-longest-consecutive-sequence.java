@@ -8,7 +8,7 @@ class Solution {
           }
        
        int maxCount =0;
-          for(int x :nums){
+          for(int x :set){
             if(!set.contains(x-1)){
                 int curr = x;
                 int count =1;
