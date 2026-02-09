@@ -2,7 +2,9 @@ class Solution {
     public int longestConsecutive(int[] arr) {
         int n = arr.length;
         int count =1;
-        int maxCount =0;
+        int maxCount =1;
+
+        if(n==0) return 0;
 
         Arrays.sort(arr);
 
@@ -17,7 +19,7 @@ class Solution {
                 maxCount = Math.max(count, maxCount);
 
             }else{
-                break;
+             count=1;
             }
 
         }
