@@ -2,28 +2,24 @@ import java.util.*;
 class MyStack {
 
     Queue<Integer> q1 ;
-    Queue<Integer> q2;
 
     public MyStack() {
      
-     q1 =new LinkedList<Integer>();
-     q2 =new LinkedList<Integer>();
-
+     q1=new LinkedList<Integer>();
+  
         
     }
     
     public void push(int x) {
 
-        q2.add(x);
+        q1.add(x);
+        int size = q1.size();
 
-        while(!q1.isEmpty()){
-            q2.add(q1.remove());
+        for(int i=0; i <size-1; i++){
+            q1.add(q1.remove());
         }
 
-        Queue temp = q1;
-        q1 = q2;
-        q2 = temp;
-
+      
 
         
     }
