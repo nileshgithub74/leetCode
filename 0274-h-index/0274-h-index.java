@@ -6,8 +6,9 @@ class Solution {
         Arrays.sort(arr);
 
         for(int i =0; i <n; i++){
+            int h = n-i;
 
-            if(arr[i] > i){
+            if(arr[i] >= h){
                 count++;
             }
             
