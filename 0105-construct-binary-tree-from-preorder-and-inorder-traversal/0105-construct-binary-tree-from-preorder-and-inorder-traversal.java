@@ -1,42 +1,56 @@
-import java.util.HashMap;
-
-
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    int preIndex = 0;
-    int[] preorder;
-    int[] inorder;
-    HashMap<Integer, Integer> inorderMap = new HashMap<>();
-
+      public int preorderIndex =0;
+        HashMap<Integer, Integer> map  =new HashMap<>();
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        this.preorder = preorder;
-        this.inorder = inorder;
 
-      
-        for (int i = 0; i < inorder.length; i++) {
-            inorderMap.put(inorder[i], i);
+
+        for(int i=0; i <inorder.length; i++){
+            map.put(inorder[i], i);
         }
 
+        return solve(preorder, 0, inorder.length-1);
+
+
         
-        return buildTreeHelper(0, inorder.length - 1);
     }
 
-    private TreeNode buildTreeHelper(int inStart, int inEnd) {
-        if (inStart > inEnd) {
-            return null;  }
 
-     
-        TreeNode root = new TreeNode(preorder[preIndex++]);
+    public TreeNode solve(int[] preorder, int start, int end){
 
-        int inIndex = inorderMap.get(root.val);
+        if(start > end){
+            return null;
+        }
 
-        root.left = buildTreeHelper(inStart, inIndex - 1);
-        root.right = buildTreeHelper(inIndex + 1, inEnd);
+        int val= preorder[preorderIndex++];
+        TreeNode root = new TreeNode(val);
+
+        int inorderIndex = map.get(val);
+
+        root.left = solve(preorder, start, inorderIndex-1);
+        root.right = solve(preorder, inorderIndex+1, end);
 
         return root;
+
+
+
+
+
+
+
     }
-
-
-
-    
 }
