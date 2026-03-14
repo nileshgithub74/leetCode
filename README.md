@@ -167,35 +167,36 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nileshgithub74/leetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nileshgithub74/leetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0228-summary-ranges](https://github.com/nileshgithub74/leetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
@@ -203,76 +204,76 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
