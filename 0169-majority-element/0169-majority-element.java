@@ -1,16 +1,15 @@
 class Solution {
     public int majorityElement(int[] arr) {
-        int n = arr.length;
-        int candidate = 0;
+        int n= arr.length;
+        int candidate =0;
         int count =0;
 
         for(int x : arr){
-            if(count == 0){
+            if(count ==0){
                 candidate = x;
-                
+                count =1;
             }
-             if(x == candidate){
-
+            else if(  x == candidate){
                 count++;
             }else{
                 count--;
@@ -18,16 +17,21 @@ class Solution {
         }
 
         count =0;
-        for(int x : arr){
+
+        for(int x: arr){
             if(x == candidate){
                 count++;
             }
         }
-        int ans= 0;
-        if(count > n/2)
+
+         int ans =0;
+        if(count > n/2){
             ans = candidate;
-        
+        }
+
         return ans;
+
+    
         
     }
 }
