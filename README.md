@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/nileshgithub74/leetCode/tree/main/0228-summary-ranges/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/nileshgithub74/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/nileshgithub74/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 | Problem Name | Difficulty |
