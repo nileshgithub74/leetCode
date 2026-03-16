@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nileshgithub74/leetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/nileshgithub74/leetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nileshgithub74/leetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nileshgithub74/leetCode/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nileshgithub74/leetCode/tree/main/0202-happy-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
