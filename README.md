@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nileshgithub74/leetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 | Problem Name | Difficulty |
