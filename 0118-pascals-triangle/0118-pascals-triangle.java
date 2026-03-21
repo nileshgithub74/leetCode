@@ -1,14 +1,14 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        int n = numRows;
+        int num = numRows;
       List<List<Integer>> result = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
+        for (int n = 0; n < num; n++) {
             ArrayList<Integer> list = new ArrayList<>();
             long res =1;
 
-            for(int j =0; j <= i; j++){
+            for(int c =0; c <= n; c++){
                list.add((int) res);
-                res =res* (i-j)/(j+1);
+                res =res* (n-c)/(c+1);
             }
             result.add(list);
         }
