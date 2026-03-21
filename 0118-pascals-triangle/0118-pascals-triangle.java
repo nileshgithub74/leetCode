@@ -4,12 +4,11 @@ class Solution {
       List<List<Integer>> result = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             ArrayList<Integer> list = new ArrayList<>();
-            for (int j = 0; j <= i; j++) {
-                if (j == 0 || j == i) {
-                    list.add(1);
-                } else {
-                    list.add(result.get(i - 1).get(j) + result.get(i - 1).get(j - 1));
-                }
+            long res =1;
+
+            for(int j =0; j <= i; j++){
+               list.add((int) res);
+                res =res* (i-j)/(j+1);
             }
             result.add(list);
         }
