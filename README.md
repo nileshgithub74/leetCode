@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/nileshgithub74/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/nileshgithub74/leetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nileshgithub74/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/nileshgithub74/leetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/nileshgithub74/leetCode/tree/main/0198-house-robber/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
