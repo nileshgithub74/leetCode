@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,4 +329,16 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
