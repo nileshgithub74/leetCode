@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nileshgithub74/leetCode/tree/main/0202-happy-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nileshgithub74/leetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 <!---LeetCode Topics End-->
