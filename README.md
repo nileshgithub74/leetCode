@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nileshgithub74/leetCode/tree/main/0202-happy-number/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/nileshgithub74/leetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
