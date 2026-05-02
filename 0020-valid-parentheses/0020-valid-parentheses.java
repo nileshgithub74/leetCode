@@ -2,16 +2,18 @@ import java.util.Stack;
 
 class Solution {
     public boolean isValid(String s) {
+
         Stack<Character> st = new Stack<>();
 
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
+        for (char ch : s.toCharArray()) {
+
+            if (ch == '(') {
                 st.push(')');
-            } else if (c == '{') {
+            } else if (ch == '{') {
                 st.push('}');
-            } else if (c == '[') {
+            } else if (ch == '[') {
                 st.push(']');
-            } else if (st.isEmpty() || st.pop() != c) {
+            } else if (st.isEmpty() || st.pop() != ch) {
                 return false;
             }
         }
