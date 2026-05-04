@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nileshgithub74/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/nileshgithub74/leetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -370,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nileshgithub74/leetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nileshgithub74/leetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
