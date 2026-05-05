@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/nileshgithub74/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/nileshgithub74/leetCode/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nileshgithub74/leetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/nileshgithub74/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nileshgithub74/leetCode/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/nileshgithub74/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Math
 | Problem Name | Difficulty |
