@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/nileshgithub74/leetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/nileshgithub74/leetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/nileshgithub74/leetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
