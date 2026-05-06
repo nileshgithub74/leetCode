@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
