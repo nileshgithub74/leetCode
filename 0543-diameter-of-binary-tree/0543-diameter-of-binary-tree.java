@@ -14,27 +14,39 @@
  * }
  */
 class Solution {
-    int diameter = 0;
-
+    
     public int diameterOfBinaryTree(TreeNode root) {
 
-          height(root, meter);
-          return diameter; 
+        if(root == null) return 0;
+
+        int leftH = checkHeight(root.left);
+        int rightH = checkHeight(root.right);
+
+// passing through the node
+        int dia = leftH + rightH;
+
+        // not passing through the node;
+
+        int leftDia = diameterOfBinaryTree(root.left);
+        int rightDia = diameterOfBinaryTree(root.right);
+
+
+        return Math.max(dia, Math.max(leftDia, rightDia));
+
+
+        
     }
 
-    static height(TreeNode root, diameter){
-        if(root == null){
-            return  0;
-        }
-        int left  = height(root.left);
-        int right = height(root.right);
-    
-        diameter = Math.max(diameter, left+right);
 
-        return  1+ Math.max(left, right);
+    public  int checkHeight(TreeNode root){
+        if(root == null) return 0;
+
+        int left = checkHeight(root.left);
+
+        int right = checkHeight(root.right);
+
+     return Math.max(left,right)+1;
 
 
     }
-
-    
 }
