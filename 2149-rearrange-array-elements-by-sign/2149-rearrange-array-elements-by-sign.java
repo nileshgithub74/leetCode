@@ -1,27 +1,25 @@
 class Solution {
     public int[] rearrangeArray(int[] arr) {
-        int n= arr.length;
+        int n = arr.length;
+        ArrayList<Integer> pos = new ArrayList<>();
+        ArrayList<Integer> neg = new ArrayList<>();
 
-        int[] result = new int[n];
-
-        int even =0;
-        int odd =1;
-        
         for(int i=0; i< n; i++){
-            if(arr[i] >=0){
-                result[even] = arr[i];
-                even = even +2;
+            if(arr[i] >= 0){
+                pos.add(arr[i]);
             }else{
-                result[odd] = arr[i];
-                odd +=2;
+                neg.add(arr[i]);
             }
         }
 
-        for(int i =0; i< n; i++){
-            arr[i] = result[i];
+        // fill the aray
+
+        for(int i=0; i< n/2; i++){
+            arr[2*i] = pos.get(i);
+            arr[2*i + 1] = neg.get(i);
         }
 
-         return result;
+        return arr;
         
     }
 }
