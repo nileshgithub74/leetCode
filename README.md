@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/nileshgithub74/leetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/nileshgithub74/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/nileshgithub74/leetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
