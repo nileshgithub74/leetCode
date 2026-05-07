@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/nileshgithub74/leetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nileshgithub74/leetCode/tree/main/0075-sort-colors/) | Medium |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/nileshgithub74/leetCode/tree/main/0118-pascals-triangle/) | Easy |
