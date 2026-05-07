@@ -5,13 +5,14 @@ class Solution {
 
         for(int i=0; i < n; i++){
             if(arr[i] != 0){
-                arr[index++] = arr[i];
+                 int temp = arr[i];
+                 arr[i] = arr[index];
+                 arr[index] = temp;
+                 index++;
 
             }
         }
-        for(int i= index; i<n; i++){
-            arr[i] = 0;
-        }
+     
 
 
 
