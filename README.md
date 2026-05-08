@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/nileshgithub74/leetCode/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/nileshgithub74/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1390-four-divisors](https://github.com/nileshgithub74/leetCode/tree/main/1390-four-divisors/) | Medium |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nileshgithub74/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/nileshgithub74/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 | Problem Name | Difficulty |
