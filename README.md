@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/nileshgithub74/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nileshgithub74/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/nileshgithub74/leetCode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
