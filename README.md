@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/nileshgithub74/leetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/nileshgithub74/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/nileshgithub74/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/nileshgithub74/leetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/nileshgithub74/leetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -453,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nileshgithub74/leetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
