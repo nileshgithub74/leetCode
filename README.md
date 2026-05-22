@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3151-special-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/nileshgithub74/leetCode/tree/main/3379-transformed-array/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/nileshgithub74/leetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
