@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1394-find-lucky-integer-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/nileshgithub74/leetCode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nileshgithub74/leetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nileshgithub74/leetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nileshgithub74/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nileshgithub74/leetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 | Problem Name | Difficulty |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
