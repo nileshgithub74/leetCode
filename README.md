@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nileshgithub74/leetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2769-find-the-maximum-achievable-number](https://github.com/nileshgithub74/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/nileshgithub74/leetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/nileshgithub74/leetCode/tree/main/3379-transformed-array/) | Easy |
+| [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
