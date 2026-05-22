@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nileshgithub74/leetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/nileshgithub74/leetCode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
