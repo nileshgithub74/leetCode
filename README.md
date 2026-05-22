@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3379-transformed-array](https://github.com/nileshgithub74/leetCode/tree/main/3379-transformed-array/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/nileshgithub74/leetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nileshgithub74/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/nileshgithub74/leetCode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
