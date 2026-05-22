@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3861-minimum-capacity-box](https://github.com/nileshgithub74/leetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/nileshgithub74/leetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/nileshgithub74/leetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
