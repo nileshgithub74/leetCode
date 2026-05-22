@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3151-special-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/nileshgithub74/leetCode/tree/main/3379-transformed-array/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/nileshgithub74/leetCode/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
