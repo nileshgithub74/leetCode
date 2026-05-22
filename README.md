@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/nileshgithub74/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/nileshgithub74/leetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3884-first-matching-character-from-both-ends](https://github.com/nileshgithub74/leetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
