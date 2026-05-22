@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3870-count-commas-in-range](https://github.com/nileshgithub74/leetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3908-valid-digit-number](https://github.com/nileshgithub74/leetCode/tree/main/3908-valid-digit-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
