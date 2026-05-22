@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nileshgithub74/leetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nileshgithub74/leetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
