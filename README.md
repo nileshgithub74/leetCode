@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1390-four-divisors](https://github.com/nileshgithub74/leetCode/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/nileshgithub74/leetCode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nileshgithub74/leetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nileshgithub74/leetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nileshgithub74/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nileshgithub74/leetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/nileshgithub74/leetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nileshgithub74/leetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 | Problem Name | Difficulty |
