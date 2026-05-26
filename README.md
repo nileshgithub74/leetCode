@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/nileshgithub74/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/nileshgithub74/leetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nileshgithub74/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1390-four-divisors](https://github.com/nileshgithub74/leetCode/tree/main/1390-four-divisors/) | Medium |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/nileshgithub74/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/nileshgithub74/leetCode/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nileshgithub74/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
