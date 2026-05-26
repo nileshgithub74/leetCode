@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nileshgithub74/leetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nileshgithub74/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nileshgithub74/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/nileshgithub74/leetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/nileshgithub74/leetCode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
