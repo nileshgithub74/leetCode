@@ -167,8 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/nileshgithub74/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nileshgithub74/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -178,8 +178,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/nileshgithub74/leetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -191,8 +191,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/nileshgithub74/leetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -206,8 +206,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/nileshgithub74/leetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -219,16 +219,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Union Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nileshgithub74/leetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nileshgithub74/leetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -286,8 +286,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nileshgithub74/leetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/nileshgithub74/leetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/nileshgithub74/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/nileshgithub74/leetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -304,8 +304,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nileshgithub74/leetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/nileshgithub74/leetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/nileshgithub74/leetCode/tree/main/0075-sort-colors/) | Medium |
@@ -324,8 +324,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/nileshgithub74/leetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nileshgithub74/leetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -339,8 +339,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/nileshgithub74/leetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
@@ -354,8 +354,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nileshgithub74/leetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/nileshgithub74/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -366,8 +366,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/nileshgithub74/leetCode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -376,16 +376,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/nileshgithub74/leetCode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nileshgithub74/leetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/nileshgithub74/leetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
@@ -400,62 +400,62 @@ A collection of LeetCode questions to ace the coding interview!
 | [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/nileshgithub74/leetCode/tree/main/3908-valid-digit-number/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nileshgithub74/leetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nileshgithub74/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/nileshgithub74/leetCode/tree/main/3379-transformed-array/) | Easy |
 | [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nileshgithub74/leetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/nileshgithub74/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/main/0169-majority-element/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -464,12 +464,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/nileshgithub74/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/nileshgithub74/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nileshgithub74/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nileshgithub74/leetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/nileshgithub74/leetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -477,43 +477,43 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nileshgithub74/leetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nileshgithub74/leetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nileshgithub74/leetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/nileshgithub74/leetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0287-find-the-duplicate-number](https://github.com/nileshgithub74/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
