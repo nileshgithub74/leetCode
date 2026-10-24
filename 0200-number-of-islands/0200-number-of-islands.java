@@ -1,67 +1,32 @@
 class Solution {
+    public void dfs(int sr, int sc,  char[][] grid){
 
-    private void bfs(char[][] grid, int i, int j ){
-        Queue<int[]> q = new  LinkedList<>();
-        q.add( new int[]{i,j});
+        grid[sr][sc] = '0';
 
-        grid[i][j] = 'V';
+        int[][] direction = {{-1, 0}, {1,0}, {0,1}, {0, -1}};
 
-        while(!q.isEmpty()){
-            int[] removed = q.remove();
-            int x = removed[0];
-            int y = removed[1];
+        for(int i=0; i< direction.length; i++){
+            int newrow = sr + direction[i][0];
+            int newcol = sc + direction[i][1];
 
-              if (x + 1 < grid.length && grid[x + 1][y] == '1') {
-                q.add(new int[]{x + 1, y});
-                grid[x + 1][y] = 'V';
+            if(newrow >=0 && newrow< grid.length && newcol >=0 && newcol <grid[0].length && grid[newrow][newcol] == '1'){
+                dfs(newrow, newcol, grid);
             }
-
-            if(x-1 >=0 && grid[x-1][y] =='1'){
-                q.add(new int[]{x-1, y});
-                grid[x-1][y] = 'V';
-            }
-
-            if( y+1 < grid[0].length && grid[x][y+1] == '1'){
-               q.add(new int[]{x, y + 1});
-              grid[x][y+1] = 'V';  
-            }
-
-
-             if(y-1 >= 0 && grid[x][y-1]  == '1'){
-                 q.add(new int[]{x, y -1});
-              grid[x][y-1] = 'V';  
-            }
-
-
-
-
-
 
         }
-    
-
     }
-
-
-
     public int numIslands(char[][] grid) {
-        if(grid == null ||  grid.length == 0){
-            return 0;
-        }
+        int count =0;
+        int m = grid.length;
+        int n= grid[0].length;
 
-        int row =  grid.length;
-        int col = grid[0].length;
-        int count = 0;
-
-
-        for(int i = 0; i< row; i++){
-            for(int j = 0 ; j< col; j++){
+        for(int i=0; i < m; i++){
+            for(int j =0; j < n; j++){
                 if(grid[i][j] == '1'){
                     count++;
-                    bfs(grid, i, j );
+                    dfs(i, j, grid);
                 }
             }
-
         }
         return count;
         
