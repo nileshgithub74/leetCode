@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/nileshgithub74/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/nileshgithub74/leetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/nileshgithub74/leetCode/tree/master/0695-max-area-of-island) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/nileshgithub74/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nileshgithub74/leetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/nileshgithub74/leetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/nileshgithub74/leetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/nileshgithub74/leetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/nileshgithub74/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/nileshgithub74/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/nileshgithub74/leetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/nileshgithub74/leetCode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/nileshgithub74/leetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/nileshgithub74/leetCode/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
