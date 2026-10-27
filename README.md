@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nileshgithub74/leetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nileshgithub74/leetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/nileshgithub74/leetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/nileshgithub74/leetCode/tree/master/1765-map-of-highest-peak) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nileshgithub74/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nileshgithub74/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nileshgithub74/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nileshgithub74/leetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/nileshgithub74/leetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1710-maximum-units-on-a-truck](https://github.com/nileshgithub74/leetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
