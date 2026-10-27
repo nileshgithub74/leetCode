@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/nileshgithub74/leetCode/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nileshgithub74/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/nileshgithub74/leetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/nileshgithub74/leetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/nileshgithub74/leetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nileshgithub74/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/nileshgithub74/leetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/nileshgithub74/leetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nileshgithub74/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/nileshgithub74/leetCode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
