@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/nileshgithub74/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nileshgithub74/leetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/nileshgithub74/leetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nileshgithub74/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/nileshgithub74/leetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/nileshgithub74/leetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Dynamic Programming
 |  |
