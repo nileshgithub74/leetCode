@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/nileshgithub74/leetCode/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nileshgithub74/leetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 |  |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nileshgithub74/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nileshgithub74/leetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1765-map-of-highest-peak](https://github.com/nileshgithub74/leetCode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/nileshgithub74/leetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nileshgithub74/leetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 |  |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/nileshgithub74/leetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nileshgithub74/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nileshgithub74/leetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nileshgithub74/leetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nileshgithub74/leetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Enumeration
 |  |
