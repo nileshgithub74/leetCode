@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3151-special-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/nileshgithub74/leetCode/tree/main/3379-transformed-array/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nileshgithub74/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3861-minimum-capacity-box](https://github.com/nileshgithub74/leetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nileshgithub74/leetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nileshgithub74/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nileshgithub74/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/nileshgithub74/leetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/nileshgithub74/leetCode/tree/main/3894-traffic-signal-color/) | Easy |
