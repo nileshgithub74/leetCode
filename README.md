@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nileshgithub74/leetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nileshgithub74/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/nileshgithub74/leetCode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/nileshgithub74/leetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/nileshgithub74/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/nileshgithub74/leetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/nileshgithub74/leetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nileshgithub74/leetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0494-target-sum](https://github.com/nileshgithub74/leetCode/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -598,4 +601,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nileshgithub74/leetCode/tree/master/0210-course-schedule-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/nileshgithub74/leetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/nileshgithub74/leetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
