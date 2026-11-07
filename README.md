@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/nileshgithub74/leetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/nileshgithub74/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/nileshgithub74/leetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nileshgithub74/leetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nileshgithub74/leetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nileshgithub74/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nileshgithub74/leetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
 |  |
 | ------- |
