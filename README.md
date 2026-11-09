@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/nileshgithub74/leetCode/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1020-number-of-enclaves](https://github.com/nileshgithub74/leetCode/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nileshgithub74/leetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nileshgithub74/leetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/nileshgithub74/leetCode/tree/master/1260-shift-2d-grid) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/nileshgithub74/leetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nileshgithub74/leetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nileshgithub74/leetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/nileshgithub74/leetCode/tree/master/1092-shortest-common-supersequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/nileshgithub74/leetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nileshgithub74/leetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
