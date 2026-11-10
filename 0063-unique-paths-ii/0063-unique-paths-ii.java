@@ -16,14 +16,9 @@ class Solution {
         }
         int left = 0;
         int up = 0;
-        if (j - 1 >= 0 && grid[i][j - 1] != 1) {
-            left = solve(grid, i, j - 1, dp);
 
-        }
-
-        if (i - 1 >= 0 && grid[i - 1][j] != 1) {
-            up = solve(grid, i - 1, j, dp);
-        }
+        left = solve(grid, i, j - 1, dp);
+        up = solve(grid, i - 1, j, dp);
 
         return dp[i][j] = left + up;
 
