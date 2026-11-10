@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/nileshgithub74/leetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/nileshgithub74/leetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nileshgithub74/leetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nileshgithub74/leetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nileshgithub74/leetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/nileshgithub74/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nileshgithub74/leetCode/tree/master/0200-number-of-islands) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/nileshgithub74/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nileshgithub74/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/nileshgithub74/leetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0087-scramble-string](https://github.com/nileshgithub74/leetCode/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/nileshgithub74/leetCode/tree/main/0118-pascals-triangle/) | Easy |
