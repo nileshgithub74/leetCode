@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/nileshgithub74/leetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nileshgithub74/leetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2965-find-missing-and-repeated-values](https://github.com/nileshgithub74/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3151-special-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/nileshgithub74/leetCode/tree/main/3379-transformed-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nileshgithub74/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nileshgithub74/leetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/nileshgithub74/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nileshgithub74/leetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nileshgithub74/leetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nileshgithub74/leetCode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nileshgithub74/leetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/nileshgithub74/leetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nileshgithub74/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/nileshgithub74/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nileshgithub74/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/nileshgithub74/leetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nileshgithub74/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/nileshgithub74/leetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/nileshgithub74/leetCode/tree/master/1765-map-of-highest-peak) |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
+| [2965-find-missing-and-repeated-values](https://github.com/nileshgithub74/leetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
