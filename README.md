@@ -630,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/nileshgithub74/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/nileshgithub74/leetCode/tree/master/1092-shortest-common-supersequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
