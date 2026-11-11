@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nileshgithub74/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/nileshgithub74/leetCode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/nileshgithub74/leetCode/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nileshgithub74/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/nileshgithub74/leetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/nileshgithub74/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nileshgithub74/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nileshgithub74/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nileshgithub74/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nileshgithub74/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nileshgithub74/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
