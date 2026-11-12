@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nileshgithub74/leetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nileshgithub74/leetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/nileshgithub74/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nileshgithub74/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nileshgithub74/leetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/nileshgithub74/leetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nileshgithub74/leetCode/tree/main/0202-happy-number/) | Easy |
@@ -642,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nileshgithub74/leetCode/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nileshgithub74/leetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
