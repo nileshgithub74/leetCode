@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nileshgithub74/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nileshgithub74/leetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nileshgithub74/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/nileshgithub74/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/nileshgithub74/leetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/nileshgithub74/leetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/nileshgithub74/leetCode/tree/master/1765-map-of-highest-peak) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nileshgithub74/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nileshgithub74/leetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nileshgithub74/leetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/nileshgithub74/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 |  |
