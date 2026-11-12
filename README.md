@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/nileshgithub74/leetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nileshgithub74/leetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nileshgithub74/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/nileshgithub74/leetCode/tree/main/0189-rotate-array/) | Medium |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nileshgithub74/leetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/nileshgithub74/leetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/nileshgithub74/leetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
