@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/nileshgithub74/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/nileshgithub74/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nileshgithub74/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/nileshgithub74/leetCode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/nileshgithub74/leetCode/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/nileshgithub74/leetCode/tree/master/1002-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nileshgithub74/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/nileshgithub74/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/nileshgithub74/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nileshgithub74/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0860-lemonade-change](https://github.com/nileshgithub74/leetCode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/nileshgithub74/leetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
