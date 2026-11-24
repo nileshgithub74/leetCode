@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1765-map-of-highest-peak](https://github.com/nileshgithub74/leetCode/tree/master/1765-map-of-highest-peak) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nileshgithub74/leetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nileshgithub74/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nileshgithub74/leetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2411-spiral-matrix-iv](https://github.com/nileshgithub74/leetCode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/nileshgithub74/leetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nileshgithub74/leetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nileshgithub74/leetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/nileshgithub74/leetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nileshgithub74/leetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1710-maximum-units-on-a-truck](https://github.com/nileshgithub74/leetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nileshgithub74/leetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nileshgithub74/leetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nileshgithub74/leetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nileshgithub74/leetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nileshgithub74/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
